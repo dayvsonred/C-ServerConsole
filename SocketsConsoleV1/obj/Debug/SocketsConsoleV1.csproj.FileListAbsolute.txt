@@ -1,0 +1,17 @@
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\SocketsConsoleV1.exe.config
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\SocketsConsoleV1.exe
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\SocketsConsoleV1.pdb
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\log4net.dll
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\SuperSocket.Common.dll
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\SuperSocket.Facility.dll
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\SuperWebSocket.dll
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\log4net.xml
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\obj\Debug\SocketsConsoleV1.csprojResolveAssemblyReference.cache
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\obj\Debug\SocketsConsoleV1.csproj.CoreCompileInputs.cache
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\obj\Debug\SocketsConsoleV1.csproj.CopyComplete
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\obj\Debug\SocketsConsoleV1.exe
+C:\Users\Dayvson\source\repos\SocketsConsoleV1\SocketsConsoleV1\obj\Debug\SocketsConsoleV1.pdb
